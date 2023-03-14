@@ -26,8 +26,5 @@ Here are some ideas to get you started:
 
 <br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=ABharatSai.visitor-badge)
 
-# ![ABharatSai's github stats](https://github-readme-stats.vercel.app/api?username=ABharatSai&theme=omni&show_icons=true)<br>
-
-**<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABharatSai&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ABharatSai" alt="ABharatSai" /></a> </p>
